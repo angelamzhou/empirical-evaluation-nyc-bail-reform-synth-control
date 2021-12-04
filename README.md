@@ -1,4 +1,4 @@
-# empirical-evaluation-nyc-bail-reform-synth-control
+# An Empirical Evaluation of the Impact of New York's Bail Reform on Crime Using Synthetic Controls
 
 Code for [An Empirical Evaluation of the Impact of New York's Bail Reform on Crime Using Synthetic Controls](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3964067). 
 
